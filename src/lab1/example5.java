@@ -15,7 +15,7 @@ public class example5 {
         System.out.println("Input height: ");
         float height = in.nextFloat();
 
-        System.out.println("Name: " + name);
+        System.out.println("Your Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Height: " + height);
         in.close();
